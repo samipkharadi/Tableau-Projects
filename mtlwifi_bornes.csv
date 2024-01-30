@@ -1,0 +1,444 @@
+ID,Lieu,Latitude,Longitude,X,Y,Type,Arrondissement,Zone active
+4HA01,Rue Saint Jacques / Place d'Armes,45.50472,-73.55792,300273.915870786,5040534.82582853,Intersection,Ville-Marie,x
+4HA02,Rue Notre-Dames/ Place d'Armes,45.50486,-73.5566,300377.0765407,5040550.31057075,Intersection,Ville-Marie,x
+4HA04,Rue Le Royer / boul. Saint-Laurent,45.50578,-73.55467,300527.963128528,5040652.44620446,Intersection,Ville-Marie,x
+4HA05,Rue Saint-Suplice / rue de la Commune,45.50393,-73.55381,300595.027735717,5040446.80934621,Intersection,Ville-Marie,x
+4HA06,Place Royale/rue de la Commune,45.50321,-73.55398,300581.68934737,5040366.80429712,Intersection,Ville-Marie,x
+4HA07,Rue Saint-Paul / rue Saint-Pierre,45.50122,-73.55625,300404.143504764,5040145.77636307,Intersection,Ville-Marie,x
+4HA08,Rue Saint-Antoine / rue Saint-Pierre,45.50316,-73.56053,300069.830128372,5040361.61261352,Intersection,Ville-Marie,x
+4HA11,Boul. Saint-Laurent /rue de la Commune,45.50534,-73.55338,300628.734136382,5040603.48096526,Intersection,Ville-Marie,x
+4VA01,Rue King / rue Wellington,45.49823,-73.55521,300485.189636474,5039813.43999611,Intersection,Ville-Marie,x
+4VA02,Rue McGill / rue Saint-Maurice,45.50056,-73.55852,300226.692841966,5040072.55699376,Intersection,Ville-Marie,x
+4VA03,Rue Saint-Jacques / rue McGill,45.50124,-73.56054,300068.887859713,5040148.24268741,Intersection,Ville-Marie,x
+4VA04,Rue Saint-Antoine / rue du Square-Victoria,45.5014,-73.5621,299946.989896136,5040166.11662377,Intersection,Ville-Marie,x
+4VA05,Avenue Viger / rue Square-Victoria,45.50208,-73.56324,299857.960315418,5040241.75484636,Intersection,Ville-Marie,x
+4VA06,Avenue Viger / place Jean-Paul-Riopelle,45.50352,-73.56186,299965.926923878,5040401.69877333,Intersection,Ville-Marie,x
+4VA07,Avenue Viger / rue Jeanne-Mance,45.50475,-73.56103,300030.891443273,5040538.33969091,Intersection,Ville-Marie,x
+4VA08,Rue Saint-Antoine / rue Saint-André,45.51421,-73.55258,300691.893736882,5041589.16837392,Intersection,Ville-Marie,x
+4VA09,Parc Champ de Mars,45.50932,-73.55443,300546.983863082,5041045.83572562,Intersection,Ville-Marie,x
+4VA10,Avenue Viger / rue Saint-Urbain,45.50645,-73.55956,300145.902733735,5040727.17538625,Intersection,Ville-Marie,x
+4VA11,Boul. Saint-Laurent / Rue Saint-Antoine,45.50692,-73.55712,300336.604707644,5040779.26826588,Intersection,Ville-Marie,x
+4VA12,Rue Notre-Dame / rue Saint-Vincent,45.50754,-73.5545,300541.380023666,5040848.02696936,Intersection,Ville-Marie,x
+4VA13,Rue Notre-Dame / Place Jacques Cartier,45.50841,-73.55403,300578.170774989,5040944.6857701,Intersection,Ville-Marie,x
+4VA14,Rue le Royer / Place Jacques Cartier,45.50793,-73.55339,300628.144028577,5040891.30964396,Intersection,Ville-Marie,x
+4VA15,Rue Notre-Dame / rue Gosford,45.50919,-73.55338,300629.018481987,5041031.33368194,Intersection,Ville-Marie,x
+4VA16,Rue Saint-Antoine / rue Gosford,45.50989,-73.55491,300509.521240016,5041109.20570908,Intersection,Ville-Marie,x
+4VA17,Rue Saint-Antoine / Avenue de l'Hôtel-de-Ville,45.50883,-73.55571,300446.930281167,5040991.45030229,Intersection,Ville-Marie,x
+4VA18,Rue Berri / rue Notre-Dame  ,45.51126,-73.55175,300756.530881557,5041261.29073851,Intersection,Ville-Marie,x
+4VA19,Rue Bonsecours / rue Notre-Dame,45.51004,-73.55245,300701.748073844,5041125.74683531,Intersection,Ville-Marie,x
+4VA20,Rue Berri /rue de la Commune,45.51113,-73.55017,300879.974633466,5041246.76542267,Intersection,Ville-Marie,x
+4VA21,Rue Saint-Hubert / rue de la Commune,45.51187,-73.54969,300917.530239899,5041328.97879426,Intersection,Ville-Marie,x
+4VA22,Rue Bonsecours /rue de la Commune,45.50954,-73.55095,300818.9173604,5041070.10607794,Intersection,Ville-Marie,x
+4VA23,Rue de la Commune / Marché Bonsecours,45.50884,-73.55132,300789.956946722,5040992.33305488,Intersection,Ville-Marie,x
+4VA24,Rue Saint-Paul / rue Bonsecours,45.50894,-73.55191,300743.862699069,5041003.47574182,Intersection,Ville-Marie,x
+4VA25,Rue Saint-Paul /place Jacques-Cartier,45.50766,-73.55267,300684.384631321,5040861.26724055,Intersection,Ville-Marie,x
+4VA26,Rue de la Commune / place Jacques-Cartier,45.50697,-73.55211,300728.093086916,5040784.55860057,Intersection,Ville-Marie,x
+4VA27,Rue Saint Paul / rue Jean-Baptiste,45.50627,-73.55321,300642.086888115,5040706.82355997,Intersection,Ville-Marie,x
+4VA28,Rue Saint-André / rue du Glacis,45.51301,-73.55112,300805.879509131,5041455.73788835,Intersection,Ville-Marie,x
+4VA29,Rue du Port / rue de la Commune ,45.50163,-73.5539,300587.823192536,5040191.21393894,Intersection,Ville-Marie,x
+4VA30,Rue McGill / Place d'Youville ,45.4999,-73.55605,300419.670862313,5039999.0732509,Intersection,Ville-Marie,x
+4VA31,Rue de la Commune / Place d'Youville ,45.50016,-73.5532,300642.418596904,5040027.81570793,Intersection,Ville-Marie,x
+4VA32,Rue McGill / rue Wellington,45.4993,-73.55481,300516.531845853,5039932.32812761,Intersection,Ville-Marie,x
+4VA33,Rue McGill /rue de la Commune,45.49863,-73.55273,300679.037500652,5039857.76194434,Intersection,Ville-Marie,x
+4VA34,Rue Queen /rue de la Commune,45.49669,-73.55309,300650.760250784,5039642.18752207,Intersection,Ville-Marie,x
+4VA35,Rue Saint-Denis / rue Saint-Antoine,45.511,-73.55463,300531.4833825,5041232.54579781,Intersection,Ville-Marie,x
+4VA36,Rue Saint-Antoine / rue Saint-Urbain,45.50566,-73.55841,300235.701413126,5040639.31625873,Intersection,Ville-Marie,x
+4VA37,Rue Saint-Antoine / rue Saint-François-Xavier,45.50468,-73.55924,300170.762885595,5040530.45583423,Intersection,Ville-Marie,x
+4VA38,Rue Notre-Dame / boul. Saint-Laurent,45.50608,-73.55562,300453.751076325,5040685.83633507,Intersection,Ville-Marie,x
+5CA07,Rue City Councillors / Avenue du Président-Kennedy,45.50615,-73.57094,299256.625026576,5040694.55860847,Intersection,Ville-Marie,x
+5CA15,Rue Peel / Avenue du Docteur Penfield,45.50346,-73.57949,298588.217325792,5040396.24312374,Intersection,Ville-Marie,x
+5CA16,Avenue des Pins / Rue McTavish,45.50524,-73.58113,298460.258567596,5040594.18357892,Intersection,Ville-Marie,x
+5CA17,Avenue du Docteur-Penfield / Rue McTavish,45.50395,-73.57855,298661.727308546,5040450.62480865,Intersection,Ville-Marie,x
+5CA18,Rue Peel / Avenue des Pins,45.50463,-73.58198,298393.767832473,5040526.46139623,Intersection,Ville-Marie,x
+5CA19,Rue Sherbrooke O / Rue McTavish,45.50267,-73.5756,298892.120537682,5040308.15657183,Intersection,Ville-Marie,x
+5CA20,Rue Saint-Urbain / rue de la Gauchetière O,45.50689,-73.56096,300036.541991392,5040776.15490836,Intersection,Ville-Marie,x
+5CA21,Rue Amherst / rue Sainte-Catherine E,45.51741,-73.55723,300328.839931883,5041945.03512719,Intersection,Ville-Marie,x
+5CA22,Rue Alexandre-De-Sève / rue Sainte-Catherine E,45.52113,-73.5538,300597.089618857,5042358.25649497,Intersection,Ville-Marie,x
+5CA23,Avenue Papineau / rue Sainte-Catherine E,45.52273,-73.55235,300710.481002871,5042535.99100556,Intersection,Ville-Marie,x
+5CA24,Avenue Papineau / Rue Logan,45.52394,-73.5551,300495.746584516,5042670.60311408,Intersection,Ville-Marie,x
+5CA25,Avenue Papineau / rue Ontario E,45.52578,-73.55957,300146.714751537,5042875.33333385,Intersection,Ville-Marie,x
+5CA26,Rue Panet / rue Ontario E,45.52297,-73.56118,300020.712354766,5042563.15004146,Intersection,Ville-Marie,x
+5CA27,Rue Amherst / rue Ontario E,45.52032,-73.56294,299882.993030762,5042268.75953172,Intersection,Ville-Marie,x
+5CA29,Rue Sanguinet / avenue Viger E,45.5105,-73.55662,300375.955504426,5041177.08816468,Intersection,Ville-Marie,x
+5CA31,Avenue Viger E / rue Berri (à venir),45.51237,-73.55493,300508.147002756,5041384.81079271,Intersection,Ville-Marie,
+5CA32,Rue Saint-Denis / rue de la Gauchetière E,45.51223,-73.55702,300344.837709707,5041369.36631015,Intersection,Ville-Marie,x
+5CA33,Rue Beaudry / rue Sainte-Catherine E,45.51893,-73.55584,300437.552748867,5042113.87747602,Intersection,Ville-Marie,x
+5CA34,Côte du Beaver Hall / rue de la Gauchetière O,45.50216,-73.56447,299761.846186209,5040250.72169423,Intersection,Ville-Marie,x
+5JA01,Avenue du Parc / avenue des Pins,45.5118,-73.57812,298696.17804919,5041322.96714519,Intersection,Le Plateau-Mont-Royal,x
+5JA02,Avenue du Parc / chemin Olmsted,45.51194,-73.5795,298588.368639161,5041338.63124361,Intersection,Ville-Marie,x
+5JA03,Avenue du Parc / avenue Duluth,45.51336,-73.58232,298368.19327816,5041496.6587812,Intersection,Ville-Marie,x
+5JA04,Avenue du Parc / rue Rachel,45.5146,-73.58484,298171.446810774,5041634.66576001,Intersection,Ville-Marie,x
+5JA05,Avenue du Parc / chemin de la Côte-Sainte-Catherine,45.51615,-73.58826,297904.43135921,5041807.20636095,Intersection,Ville-Marie,x
+5JA06,Avenue du Parc / avenue du Mont-Royal O,45.51677,-73.58895,297850.59942322,5041876.16690604,Intersection,Le Plateau-Mont-Royal,x
+5PA01,Boul. Robert-Bourassa / rue Sherbrooke O ,45.50499,-73.57325,299076.0000000,5040565.80919869,Intersection,Ville-Marie,x
+5PA02,Place Phillips / rue Sainte-Catherine,45.50402,-73.56888,299417.39402305,5040457.71046847,Intersection,Ville-Marie,x
+5PA03,Boul. Robert-Bourassa / boul. René-Lévesque O,45.50199,-73.56707,299558.647539073,5040231.99587433,Intersection,Ville-Marie,x
+5PA04,Rue Mansfield / boul. René-Lévesque O,45.50008,-73.56924,299388.884519376,5040019.88059028,Intersection,Ville-Marie,x
+5PA05,Rue Peel / boul. René-Lévesque O,45.49845,-73.57029,299306.668376617,5039838.80927258,Intersection,Ville-Marie,x
+5PA06,Rue de la Montagne / boul. René-Lévesque O,45.49645,-73.57219,299157.979104603,5039616.68018831,Intersection,Ville-Marie,x
+5PA07,Rue Guy / boul. René-Lévesque O,45.49371,-73.57512,298928.699769583,5039312.39301742,Intersection,Ville-Marie,x
+5PA08,Rue Guy / rue Sainte-Catherine,45.4951,-73.57765,298731.106933512,5039467.05217694,Intersection,Ville-Marie,x
+5PA09,Rue Crescent / rue Sainte-Catherine,45.49707,-73.57561,298890.753313154,5039685.82689653,Intersection,Ville-Marie,x
+5PA10,Rue Peel / rue Sainte-Catherine,45.50011,-73.57298,299096.606038572,5040023.47323659,Intersection,Ville-Marie,x
+5PA11,Avenue McGill College / rue Sainte-Catherine,45.50208,-73.57101,299250.755254479,5040242.26225143,Intersection,Ville-Marie,x
+5PA12,Boul. Robert-Bourassa / boul. de Maisonneuve O,45.50394,-73.57163,299202.488210021,5040449.00798479,Intersection,Ville-Marie,x
+5PA13,Rue Peel / boul.de Maisonneuve O,45.50081,-73.57485,298950.537846136,5040101.39901566,Intersection,Ville-Marie,x
+5PA14,Rue Crescent / boul. de Maisonneuve O,45.49806,-73.57766,298730.643355159,5039795.99881621,Intersection,Ville-Marie,x
+5PA15,Rue Guy / boul. de Maisonneuve O,45.49587,-73.57939,298595.198271676,5039552.75545942,Intersection,Ville-Marie,x
+5PA16,Rue Guy / rue Sherbrooke O,45.49662,-73.58189,298399.893332128,5039636.29935787,Intersection,Ville-Marie,x
+5PA17,Rue Crescent / rue Sherbrooke O,45.49883,-73.57936,298597.867907656,5039881.6990709,Intersection,Ville-Marie,x
+5PA18,Rue Peel / rue Sherbrooke O,45.50188,-73.57679,298799.042212642,5040220.45170567,Intersection,Ville-Marie,x
+5PA19,Rue Drummond / rue Sainte-Catherine,45.49867,-73.57413,299006.585755482,5039863.52772254,Intersection,Ville-Marie,x
+5PA20,Côte du Beaver Hall / boul. René-Lévesque O,45.50307,-73.56614,299631.423531866,5040351.95653438,Intersection,Ville-Marie,x
+5PA21,Rue Drummond / rue Sherbrooke O,45.50045,-73.57779,298720.740672885,5040061.61034621,Intersection,Ville-Marie,x
+5SA01,Rue Saint-Urbain / Rue de Montigny,45.50953,-73.56635,299615.605897536,5041069.87346312,Intersection,Ville-Marie,x
+5SA02,Rue Saint-Urbain / boul. de Maisonneuve O,45.50968,-73.56721,299548.421973432,5041086.59892805,Intersection,Ville-Marie,x
+5SA03,Rue Jeanne-Mance / boul. de Maisonneuve O,45.50829,-73.56839,299456.088954344,5040932.20521394,Intersection,Ville-Marie,x
+5SA04,Boul. Saint-Laurent / Rue Saint-Norbert,45.5119,-73.56798,299488.465413521,5041333.35959331,Intersection,Ville-Marie,x
+5SA05,Boul. Saint-Laurent / rue Ontario O,45.51132,-73.56665,299592.329855048,5041268.8167119,Intersection,Ville-Marie,x
+5SA06,Boul. Saint-Laurent / boul. de Maisonneuve O,45.51071,-73.56543,299687.598823241,5041200.94863463,Intersection,Ville-Marie,x
+5SA07,Rue de Boisbriand / rue de Bullion,45.51162,-73.56295,299881.453951634,5041301.92265795,Intersection,Ville-Marie,x
+5SA08,Rue Saint-Dominique / Rue de Boisbriand,45.51097,-73.56389,299807.950369215,5041229.74572917,Intersection,Ville-Marie,x
+5SA09,Boul. Saint-Laurent / Place du Marché,45.50929,-73.56208,299949.230537445,5041042.93536028,Intersection,Ville-Marie,x
+5SA10,Rue de Bleury / rue Sherbrooke O,45.50839,-73.57113,299241.998545289,5040943.50422734,Intersection,Ville-Marie,x
+5SA11,Rue Jeanne-Mance / rue Sherbrooke O,45.50924,-73.57097,299254.584194162,5041037.95418256,Intersection,Le Plateau-Mont-Royal,x
+5SA12,Rue Saint-Urbain / rue Sherbrooke O,45.51107,-73.5702,299314.927793927,5041241.27036342,Intersection,Le Plateau-Mont-Royal,x
+5SA13,Avenue de l'Hôtel-de-ville / rue Sherbrooke E,45.5146,-73.56837,299458.248674022,5041633.43832868,Intersection,Ville-Marie,x
+5SA14,Rue Berri / rue Sherbrooke E,45.51804,-73.56678,299582.793340599,5042015.62358909,Intersection,Ville-Marie,x
+5SA15,Rue Saint-Hubert / rue Ontario E,45.51783,-73.56441,299767.931551222,5041992.13488518,Intersection,Ville-Marie,x
+5SA16,Avenue de l'Hôtel-de-ville / rue Ontario E,45.51342,-73.56617,299630.026732431,5041502.16011813,Intersection,Ville-Marie,x
+5SA17,Boul. de Maisonneuve E,45.51234,-73.56371,299822.135454359,5041381.98356277,Intersection,Ville-Marie,x
+5SA18,Rue Saint-Denis / rue Émery,45.51503,-73.56318,299863.781209558,5041680.89243515,Intersection,Ville-Marie,x
+5SA19,Rue Saint-Denis / boul. René-Lévesque E,45.51286,-73.55829,300245.659199093,5041439.44987183,Intersection,Ville-Marie,x
+5SA20,Avenue de l'Hotel-de-Ville / Boul. René-Lévesque E,45.51074,-73.56023,300093.905556222,5041203.96470719,Intersection,Ville-Marie,x
+5SA21,Boul. Saint-Laurent / boul. René-Lévesque,45.50901,-73.56168,299980.461599203,5041011.79470874,Intersection,Ville-Marie,x
+5SA22,Rue Jeanne-Mance / boul. René Lévesque O,45.50618,-73.56428,299777.051673518,5040697.45446502,Intersection,Ville-Marie,x
+5SA23,Rue Saint-Alexandre / Rue Saint-Catherine,45.50526,-73.56771,299508.939466528,5040595.43458195,Intersection,Ville-Marie,x
+5SA24,Rue Saint-Alexandre / boul. René- Lévesque O,45.50424,-73.56525,299701.079091843,5040481.92234348,Intersection,Ville-Marie,x
+5SA25,Rue Berri / rue Ontario E,45.51671,-73.56432,299774.863164301,5041867.66278622,Intersection,Ville-Marie,x
+5SD01,Rue Saint-Hubert / rue Sainte-Catherine E,45.51557,-73.55893,300195.875414443,5041740.65059174,Intersection,Ville-Marie,x
+5SD02,Rue Berri / rue Sainte-Catherine E,45.51454,-73.55988,300121.5677988,5041626.24084473,Intersection,Ville-Marie,x
+5SD03,Rue Saint-Denis / rue Sainte-Catherine E,45.51379,-73.56032,300087.127940614,5041542.91853803,Intersection,Ville-Marie,x
+5SD04,Rue Sanguinet / rue Sainte-Catherine E,45.51289,-73.56131,300009.70173156,5041442.95948558,Intersection,Ville-Marie,x
+5SD05,Avenue de l'Hôtel-de-Ville / rue Sainte-Catherine E,45.51163,-73.56218,299941.618123103,5041302.98709732,Intersection,Ville-Marie,x
+5SD06,Boul. Saint-Laurent / rue Sainte-Catherine E,45.50982,-73.56397,299801.59777367,5041101.95047267,Intersection,Ville-Marie,x
+5SD07,Rue Sainte-Catherine / rue de Bleury,45.50629,-73.56677,299582.489009565,5040709.83755457,Intersection,Ville-Marie,x
+5SD08,Rue de Bleury / boul. de Maisonneuve O,45.50709,-73.56885,299420.030803601,5040798.87922203,Intersection,Ville-Marie,x
+5SD09,Rue de Bleury / boul. René-Lévesque O,45.50513,-73.56478,299737.886717193,5040580.79878308,Intersection,Ville-Marie,x
+5SD10,Boul. Saint-Laurent / rue Sherbrooke O,45.51244,-73.56962,299360.378030172,5041393.47992459,Intersection,Le Plateau-Mont-Royal,x
+5SD11,Rue Saint-Denis / rue Ontario E,45.51591,-73.56511,299713.070654366,5041778.80792135,Intersection,Ville-Marie,x
+5SD12,Rue Saint-Denis / boul. de Maisonneuve E,45.51441,-73.5621,299948.107739555,5041611.92557351,Intersection,Ville-Marie,x
+5SD14,Rue Berri / boul. de Maisonneuve E,45.51545,-73.56114,300023.200824882,5041727.44397858,Intersection,Ville-Marie,x
+5SD15,Rue Saint-Hubert / boul. de Maisonneuve E,45.51607,-73.5605,300073.255208116,5041796.3071703,Intersection,Ville-Marie,x
+5SD16,Rue Berger / rue Sainte-Catherine E,45.51077,-73.56315,299865.752844905,5041207.47387123,Intersection,Ville-Marie,x
+5SD18,Rue Sanguinet / rue Ontario E,45.51478,-73.56553,299680.154328502,5041653.25688237,Intersection,Ville-Marie,x
+5SD19,Rue Saint-Denis / rue Sherbrooke,45.51679,-73.56764,299515.488591303,5041876.76635337,Intersection,Le Plateau-Mont-Royal,x
+5SD20,Avenue Coloniale / rue Sherbrooke,45.51345,-73.56888,299418.292740536,5041505.67206384,Intersection,Le Plateau-Mont-Royal,x
+6CA01,Rue Peel / rue Saint-Antoine,45.49675,-73.56676,299582.38931778,5039649.65228727,Intersection,Ville-Marie,x
+6CA02,Avenue des Canadiens-de-Montréal / rue Peel,45.49791,-73.56857,299441.039266364,5039778.68267924,Intersection,Ville-Marie,x
+6CA03,Avenue des Canadiens-de-Montréal / rue de la Montagne (à venir),45.49589,-73.57105,299247.020944939,5039554.36775661,Intersection,Ville-Marie,
+6CA04,Rue de la Montagne / rue Saint-Antoine,45.49504,-73.56933,299381.367630068,5039459.78951318,Intersection,Ville-Marie,x
+6IA01,Boul. Robert-Bourassa / rue Saint-Antoine,45.4996,-73.56375,299817.886435771,5039966.18283414,Intersection,Ville-Marie,x
+6IA02,Boul. Robert-Bourassa / rue Saint-Jacques,45.49928,-73.56255,299911.639706212,5039930.54737563,Intersection,Ville-Marie,x
+6IA03,Rue Duke / rue Notre-Dame O (à venir),45.49861,-73.56133,300006.927377931,5039856.01648307,Intersection,Ville-Marie,
+6IA04,Rue Duke / rue William,45.49736,-73.55888,300198.298378969,5039716.96022956,Intersection,Ville-Marie,x
+6IA05,Rue Duke / rue Ottawa (à venir),45.49692,-73.55714,300334.251384374,5039667.96466532,Intersection,Ville-Marie,x
+6IA06,Rue Duke / rue Wellington (à venir),45.49618,-73.55578,300440.484415303,5039585.65349254,Intersection,Ville-Marie,x
+6IA07,Rue Nazareth / rue de la Commune O,45.49463,-73.55302,300656.080001718,5039413.25539002,Intersection,Ville-Marie,x
+6IA08,Rue Peel / rue Saint-Jacques,45.49606,-73.56527,299698.7775849,5039572.87664378,Intersection,Ville-Marie,x
+6IA09,Rue de la Montagne / rue Saint-Jacques,45.49419,-73.56752,299522.752606823,5039365.20824605,Intersection,Ville-Marie,x
+6IA10,Rue de la Commune / rue Smith,45.49289,-73.55627,300401.932119662,5039220.06142409,Intersection,Le Sud-Ouest,x
+6IA11,Rue Ottawa / rue William,45.48913,-73.565,299719.256543724,5038802.72663345,Intersection,Le Sud-Ouest,x
+6IA12,Rue Guy / rue Notre-Dame,45.49014,-73.56704,299559.893020378,5038915.09919284,Intersection,Le Sud-Ouest,x
+6IA13,Rue Guy / rue Saint-Jacques,45.49142,-73.57016,299316.145912516,5039057.55414096,Intersection,Le Sud-Ouest,x
+6IA14,Rue Guy / rue Saint-Antoine,45.49254,-73.57251,299132.577273671,5039182.18313883,Intersection,Le Sud-Ouest,x
+6IA15,Rue Saint-Antoine / rue Richmond,45.49175,-73.5734,299062.934161649,5039094.45338585,Intersection,Le Sud-Ouest,x
+6IA16,Rue Richmond / rue Saint-Jacques,45.49069,-73.57081,299265.269037784,5038976.47362427,Intersection,Le Sud-Ouest,x
+6IA17,Rue des Seigneurs / rue Saint-Jacques,45.48902,-73.57201,299171.306951426,5038790.96949852,Intersection,Le Sud-Ouest,x
+6IA18,Rue des Seigneurs / rue Notre-Dame O,45.4878,-73.56907,299400.996780953,5038655.18888601,Intersection,Le Sud-Ouest,x
+6IA19,Rue des Seigneurs / rue William,45.48694,-73.56752,299522.075507998,5038559.51394066,Intersection,Le Sud-Ouest,x
+6IA20,Rue Dominion / rue Sainte-Cunégonde,45.49221,-73.56296,299878.981946075,5039144.88082968,Intersection,Le Sud-Ouest,x
+6IA21,Boul. Georges-Vanier / rue Notre-Dame O,45.48495,-73.57162,299201.388305678,5038338.64242244,Intersection,Le Sud-Ouest,x
+6IA22,Boul. Georges-Vanier / rue Saint-Jacques,45.48687,-73.57418,299001.467365967,5038552.19388583,Intersection,Le Sud-Ouest,x
+6IA23,Rue Vinet / rue Saint-Jacques,45.48541,-73.57673,298801.982981924,5038390.13103842,Intersection,Le Sud-Ouest,x
+6IA24,Rue Vinet / rue Workman,45.48386,-73.57484,298949.564655205,5038217.73998515,Intersection,Le Sud-Ouest,x
+6IA25,Rue Saint-Cunegonde / rue Vinet,45.48222,-73.57315,299081.510387991,5038035.36495958,Intersection,Le Sud-Ouest,x
+6IA26,Avenue Atwater / rue Saint-Jacques,45.48381,-73.57975,298565.731811831,5038212.55270057,Intersection,Le Sud-Ouest,x
+6IA27,Rue Notre-Dame O / rue Saint-Henri,45.4774,-73.58503,298152.226500583,5037500.63227232,Intersection,Le Sud-Ouest,x
+6IA28,Rue Notre-Dame O / rue Bourget (à venir),45.47936,-73.58155,298424.519180012,5037718.1651068,Intersection,Le Sud-Ouest,
+6IA29,Rue Charlevoix / rue Rufus-Rockhead,45.48094,-73.5738,299030.566100575,5037893.16492882,Intersection,Le Sud-Ouest,x
+6IA30,Rue du Couvent / rue Saint-Jacques,45.47834,-73.5852,298139.046397138,5037605.10854961,Intersection,Le Sud-Ouest,x
+6IA31,Rue Quesnel / rue Canning,45.48811,-73.57433,298989.869585277,5038690.00615583,Intersection,Le Sud-Ouest,x
+6IA32,Avenue Greene / rue Saint-Jacques,45.4827,-73.58124,298449.129861391,5038089.31496667,Intersection,Le Sud-Ouest,x
+6IA33,Avenue Atwater / rue Lionel-Groulx,45.48301,-73.57927,298603.166974088,5038123.61148424,Intersection,Le Sud-Ouest,x
+6IA34,Rue du Bassin / rue du Séminaire,45.49046,-73.56049,300071.893250642,5038950.25454369,Intersection,Le Sud-Ouest,x
+6IA36,Rue Dalhousie / rue Ottawa (à venir),45.49571,-73.55821,300250.528627337,5039533.55696512,Intersection,Le Sud-Ouest,
+6IA37,Rue Wellington / rue de la Montagne,45.49165,-73.55855,300223.626705702,5039082.38721632,Intersection,Le Sud-Ouest,x
+6IA38,Rue Brennan / rue Prince,45.49614,-73.55293,300663.224752207,5039581.05757057,Intersection,Ville-Marie,x
+6IA39,Boul. Robert-Bourassa / rue de la Gauchetière,45.50057,-73.56522,299703.092278759,5040074.07157639,Intersection,Ville-Marie,x
+6IA40,Rue Mansfield / rue de la Gauchetière,45.49899,-73.56688,299573.217992099,5039898.59216561,Intersection,Ville-Marie,x
+6IA42,Rue Saint-Antoine / rue Mansfield,45.49836,-73.56525,299700.548304886,5039828.47524553,Intersection,Ville-Marie,x
+6IA43,Rue Saint-Antoine / rue Agnes,45.48021,-73.58724,297979.784385248,5037813.09281841,Intersection,Le Sud-Ouest,x
+6IA44,Rue Duvernay / rue Vinet,45.48283,-73.57356,299049.520760761,5038103.18357509,Intersection,Le Sud-Ouest,x
+6SA01,Rue Peel / rue Ottawa,45.49392,-73.55933,300162.846797151,5039334.69770632,Intersection,Le Sud-Ouest,x
+6SA02,Rue Peel / rue William,45.49466,-73.56128,300010.500141971,5039417.04854811,Intersection,Le Sud-Ouest,x
+6SA03,Rue Peel / rue Notre-Dame O,45.49534,-73.56323,299858.152231872,5039492.73527923,Intersection,Ville-Marie,x
+6SA04,Rue de la Montagne / rue Notre-Dame O,45.49281,-73.56476,299738.345851296,5039211.67083063,Intersection,Le Sud-Ouest,x
+6WA01,Rue Charles-Biddle (à venir),45.47904,-73.57509,298929.520968272,5037682.11127734,Intersection,Le Sud-Ouest,
+6WA03,Avenue Atwater / rue Duvernay,45.48063,-73.57745,298745.188268562,5037858.98315329,Intersection,Le Sud-Ouest,x
+6WA04,Avenue Atwater / rue Notre-Dame O,45.48113,-73.57789,298710.844230649,5037914.58143062,Intersection,Le Sud-Ouest,x
+6WA05,Rue Saint-Ambroise / avenue Greene (à venir),45.4787,-73.57623,298840.360794463,5037644.41098286,Intersection,Le Sud-Ouest,
+VBB001,Bibliothèque Benny,45.46612,-73.63097,294558.5253891,5036251.91416587,Bibliothèque,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+VBB002,Bibliothèque d'Ahuntsic,45.55347,-73.66299,292074.353546806,5045963.75236601,Bibliothèque,Ahuntsic-Cartierville,x
+VBB003,Bibliothèque de Belleville,45.58195,-73.6422,293703.16773672,5049125.69838906,Bibliothèque,Montréal-Nord,x
+VBB004,Bibliothèque de Cartierville,45.52721,-73.71309,288154.987496646,5043054.61166113,Bibliothèque,Ahuntsic-Cartierville,x
+VBB005,Bibliothèque de Côte-des-Neiges,45.49606,-73.62212,295255.626228805,5039578.05865107,Bibliothèque,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+BB3031,Bibliothèque Jean-Corbeil,45.60296,-73.5584,300244.351238949,5051452.41013111,Bibliothèque,Anjou,x
+VBB007,Bibliothèque de la Maison culturelle et communautaire,45.6163,-73.62067,295389.044007968,5052940.34232466,Bibliothèque,Montréal-Nord,x
+VBB008,Bibliothèque de La Petite-Patrie,45.54743,-73.59804,297144.585334545,5045284.27197256,Bibliothèque,Rosemont-La Petite-Patrie,x
+VBB009,Bibliothèque de L'Île-Bizard,45.48856,-73.88224,274921.80383124,5038808.39913149,Bibliothèque,L'Île-Bizard-Sainte-Geneviève,x
+VBB010,Bibliothèque de l'Île-des-Sœurs,45.45707,-73.54744,301089.735832335,5035238.94133617,Bibliothèque,Verdun,x
+VBB011,Bibliothèque de Mercier,45.59537,-73.52388,302936.925321223,5050607.53390616,Bibliothèque,Mercier-Hochelaga-Maisonneuve,x
+VBB012,Bibliothèque de Notre-Dame-de-Grâce,45.47555,-73.61458,295841.669895821,5037297.91105436,Bibliothèque,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+VBB013,Bibliothèque de Parc-Extension,45.53138,-73.62886,294735.154733319,5043504.01775685,Bibliothèque,Villeray-Saint-Michel-Parc-Extension,x
+BB3101,Bibliothèque de Pierrefonds,45.49523,-73.8471,277671.761174042,5039537.17091712,Bibliothèque,Pierrefonds-Roxboro,x
+VBB015,Bibliothèque de Pointe-aux-Trembles,45.66804,-73.4949,305197.37894786,5058683.30487897,Bibliothèque,Rivière-des-Prairies-Pointe-aux-Trembles,x
+VBB016,Bibliothèque de Roxboro,45.50278,-73.81437,280233.117594078,5040365.67405576,Bibliothèque,Pierrefonds-Roxboro,x
+VBB017,Bibliothèque de Saint-Charles,45.47905,-73.56375,299816.074410384,5037682.456712,Bibliothèque,Le Sud-Ouest,x
+VBB018,Bibliothèque de Saint-Henri,45.47276,-73.58898,297842.838633089,5036985.32367102,Bibliothèque,Le Sud-Ouest,x
+VBB019,Bibliothèque de Saint-Léonard,45.58665,-73.59719,297216.236663813,5049642.77816047,Bibliothèque,Saint-Léonard,x
+VBB020,Bibliothèque de Saint-Michel,45.56235,-73.60041,296961.599314049,5046942.58278821,Bibliothèque,Villeray-Saint-Michel-Parc-Extension,x
+VBB021,Bibliothèque de Saint-Pierre,45.44593,-73.65285,292843.306794131,5034011.22893254,Bibliothèque,Lachine,x
+VBB022,Bibliothèque de Salaberry,45.53466,-73.70386,288878.068886045,5043880.66583583,Bibliothèque,Ahuntsic-Cartierville,x
+VBB023,Bibliothèque de Verdun,45.4486,-73.57791,298705.776693148,5034299.53229172,Bibliothèque,Verdun,x
+VBB024,Bibliothèque d'Hochelaga,45.54237,-73.54527,301264.792771862,5044718.26902943,Bibliothèque,Mercier-Hochelaga-Maisonneuve,x
+VBB025,Bibliothèque du Haut-Anjou,45.60118,-73.57559,298903.212692077,5051255.71472754,Bibliothèque,Anjou,x
+VBB026,Bibliothèque du Plateau-Mont-Royal,45.52492,-73.58259,298348.418943319,5042781.35256474,Bibliothèque,Le Plateau-Mont-Royal,x
+VBB027,Bibliothèque du Vieux Saint-Laurent,45.51269,-73.67656,291004.892532224,5041434.06850395,Bibliothèque,Saint-Laurent,x
+VBB028,Bibliothèque Frontenac,45.53292,-73.5517,300761.987386624,5043668.38276844,Bibliothèque,Ville-Marie,x
+VBB029,Bibliothèque Georges-Vanier,45.48358,-73.5751,298929.210704209,5038186.64251628,Bibliothèque,Le Sud-Ouest,x
+VBB030,Bibliothèque Henri-Bourassa,45.60467,-73.6252,295033.734759053,5051648.41206626,Bibliothèque,Montréal-Nord,x
+VBB031,Bibliothèque Interculturelle,45.5033,-73.63691,294101.074771389,5040384.50645997,Bibliothèque,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+VBB032,Bibliothèque Langelier,45.5817,-73.54408,301360.12274546,5049089.02495314,Bibliothèque,Mercier-Hochelaga-Maisonneuve,x
+VBB033,Bibliothèque Le Prévost,45.544,-73.61461,295850.179190457,5044904.80547378,Bibliothèque,Villeray-Saint-Michel-Parc-Extension,x
+VBB034,Bibliothèque l'Octogone,45.42442,-73.62361,295126.931947178,5031616.9083449,Bibliothèque,LaSalle,x
+VBB035,Bibliothèque Maisonneuve,45.5506,-73.54061,301629.162415485,5045632.68531272,Bibliothèque,Mercier-Hochelaga-Maisonneuve,x
+VBB036,Bibliothèque Marie-Uguay,45.45772,-73.59555,297327.157116615,5035314.52192201,Bibliothèque,Le Sud-Ouest,x
+VBB037,Bibliothèque Mordecai-Richler,45.52153,-73.60165,296859.055572154,5042406.32699269,Bibliothèque,Le Plateau-Mont-Royal,x
+BB8135,Bibliothèque Père-Ambroise,45.523,-73.56277,299896.506603508,5042566.57983247,Bibliothèque,Ville-Marie,x
+VBB039,Bibliothèque Rivière-des-Prairies,45.65,-73.57904,298639.427510074,5056681.48172405,Bibliothèque,Rivière-des-Prairies-Pointe-aux-Trembles,x
+VBB040,Bibliothèque Robert-Bourassa,45.51775,-73.6085,296323.362880093,5041986.95273251,Bibliothèque,Outremont,x
+VBB041,Bibliothèque Rosemont,45.55184,-73.58226,298377.26267228,5045772.97753747,Bibliothèque,Rosemont-La Petite-Patrie,x
+VBB042,Bibliothèque Saul-Bellow,45.4401,-73.6918,289794.897284516,5033369.8751283,Bibliothèque,Lachine,x
+BB3086,Bibliothèque Yves-Ryan,45.59646,-73.63139,294549.386978342,5050736.7876555,Bibliothèque,Montréal-Nord,x
+CS0631,Stade de soccer de Montréal,45.5621,-73.63882,293963.115226458,5046919.2694335,Centre sportif,Villeray-Saint-Michel-Parc-Extension,x
+VHV001,Hôtel de ville de Montréal ,45.50892,-73.55433,300554.767529239,5041001.37819045,Hôtel de Ville de Montréal,Ville-Marie,x
+AR0315,Aréna d'Ahuntsic,45.55752,-73.66406,291991.732059631,5046414.00520289,Aréna,Ahuntsic-Cartierville,x
+AR3089,Aréna Garon,45.59484,-73.63777,294051.331235543,5050557.58860247,Aréna,Montréal-Nord,x
+ZAR003,Aréna Henri-Bourassa,45.6164,-73.62118,295349.286318417,5052951.51558862,Aréna,Montréal-Nord,x
+AR0450,Aréna Maurice-Richard,45.56246,-73.54732,301106.021319688,5046950.9923492,Aréna,Mercier-Hochelaga-Maisonneuve,x
+ZAR005,Aréna Raymond-Bourque,45.50776,-73.70113,289083.800495733,5040890.70850353,Aréna,Saint-Laurent,x
+AR0528,Aréna René-Masson,45.65136,-73.57809,298713.620156688,5056832.55051219,Aréna,Rivière-des-Prairies-Pointe-aux-Trembles,x
+ZCC001,Centre communautaire Albert-Gariépy,45.44509,-73.67097,291425.67112603,5033920.73453697,Centre communautaire,Lachine,x
+ZCC002,Centre communautaire Anjou,45.60642,-73.56383,299821.075600161,5051837.25133515,Centre communautaire,Anjou,x
+ZCC003,Centre communautaire du Plateau,45.53972,-73.57605,298860.854004592,5044425.58765221,Centre communautaire,Le Plateau-Mont-Royal,x
+CC0373,Centre communautaire Henri-Julien,45.54785,-73.64941,293133.466196098,5045337.13023316,Centre communautaire,Ahuntsic-Cartierville,x
+ZCC005,Centre communautaire La Maison du Brasseur,45.43354,-73.68996,289937.12408176,5032640.52593229,Centre communautaire,Lachine,x
+ZCC006,Centre communautaire Roussin,45.64097,-73.49023,305561.620251453,5055674.95606807,Centre communautaire,Rivière-des-Prairies-Pointe-aux-Trembles,x
+ZCC007,Centre de loisirs communautaire de Montréal-Nord,45.60158,-73.62318,295190.777982612,5051304.76877266,Centre communautaire,Montréal-Nord,x
+ZCC008,Centre de loisirs communautaires Lajeunesse,45.54035,-73.61747,295626.25005001,5044499.4992535,Centre communautaire,Villeray-Saint-Michel-Parc-Extension,x
+ZCC009,Centre de loisirs communautaires St-Michel,45.56173,-73.60126,296895.158016457,5046873.76454961,Centre communautaire,Villeray-Saint-Michel-Parc-Extension,x
+ZCC010,Centre de loisirs Monseigneur Pigeon,45.46287,-73.58445,298195.875120368,5035885.86774726,Centre communautaire,Le Sud-Ouest,x
+ZCC012,Centre des loisirs de Saint-Laurent ,45.51429,-73.69103,289874.735534693,5041614.46492637,Centre communautaire,Saint-Laurent,x
+ZCP001,Chalet du parc Caron,45.52103,-73.67168,291388.161406156,5042360.07236743,Parc,Saint-Laurent,x
+ZLD002,Conseil des arts de Montréal,45.52271,-73.56536,299694.153657804,5042534.5133001,Lieu,Ville-Marie,x
+ZLD003,Café Internet bibliothèque d'Ahuntsic,45.55333,-73.66227,292130.53698007,5045948.08004792,Lieu,Ahuntsic-Cartierville,x
+ZLD004,Espace pour la vie - Biodôme,45.55964,-73.54966,300923.15810514,5046637.71154474,Lieu,Mercier-Hochelaga-Maisonneuve,x
+ZLD005,Centre d'Histoire de Montréal,45.50107,-73.55579,300440.080264805,5040129.08172488,Lieu,Ville-Marie,x
+ZLD006,Espace pour la vie - Insectarium,45.56116,-73.55801,300271.414939014,5046807.06890413,Lieu,Rosemont-La Petite-Patrie,x
+ZLD007,Espace pour la vie - Jardin botanique,45.55691,-73.55646,300392.084310941,5046334.67335538,Lieu,Rosemont-La Petite-Patrie,x
+ZLD008,Espace pour la vie - Jardin botanique - Hall,45.55652,-73.55633,300402.203181429,5046291.32492193,Lieu,Rosemont-La Petite-Patrie,x
+ZLD009,Espace pour la vie - Planétarium,45.56074,-73.55074,300838.922285848,5046760.00905831,Lieu,Mercier-Hochelaga-Maisonneuve,x
+ZLD010,"Lachine, Port de plaisance",45.42975,-73.67589,291037.069742984,5032216.84268106,Lieu,Lachine,x
+ZLD011,Marché public de Lachine,45.43503,-73.68053,290675.319080278,5032804.40884359,Lieu,Lachine,x
+ZLD012,Office de consultation publique de Montréal - OCPM,45.50099,-73.57375,299036.520250174,5040121.32298503,Lieu,Ville-Marie,x
+ZLD013,Tourisme Montreal - Place Jacques-Cartier,45.50802,-73.55407,300575.016053866,5040901.34694163,Lieu,Ville-Marie,x
+ZMA001,St Laurent - Mairie d'arrondissement,45.50729,-73.68263,290529.262572038,5040835.02370216,Mairie d'arrondissement,Saint-Laurent,x
+ZMC001,Maison culturelle et communautaire de Montréal-Nord,45.6164,-73.62086,295374.242815271,5052951.47791597,Lieu,Montréal-Nord,x
+ZMC002,Maison de la culture Frontenac,45.53292,-73.5517,300761.987386624,5043668.38276844,Lieu,Ville-Marie,x
+ZPA001,Belvédère du Mont-Royal,45.50381,-73.58736,297973.254859017,5040435.77753422,Parc,Ville-Marie,x
+ZPA002,Carré Saint-Louis,45.51625,-73.57069,299277.148368668,5041816.96097101,Parc,Le Plateau-Mont-Royal,x
+ZPA003,Parc Alexis Carrel,45.64532,-73.58848,297903.076327905,5056162.14696085,Parc,Rivière-des-Prairies-Pointe-aux-Trembles,x
+ZPA004,Parc Armand-Bombardier,45.63829,-73.5964,297284.780773219,5055381.59273839,Parc,Rivière-des-Prairies-Pointe-aux-Trembles,x
+ZPA005,Parc Basile-Routhier,45.55893,-73.67257,291327.687971501,5046572.09414866,Parc,Ahuntsic-Cartierville,x
+ZPA006,Parc Carignan,45.60988,-73.61612,295742.8614862,5052226.34673792,Parc,Montréal-Nord,x
+ZPA007,Parc Charles-S.-Campbell,45.5207,-73.55243,300704.084202894,5042310.39944098,Parc,Ville-Marie,x
+ZPA008,Parc Clémentine de la Rousselière,45.66836,-73.49309,305338.406447708,5058718.87824261,Parc,Rivière-des-Prairies-Pointe-aux-Trembles,x
+ZPA009,Parc d'Ahuntsic,45.55496,-73.66549,291879.504398673,5046129.73772414,Parc,Ahuntsic-Cartierville,x
+ZPA010,Parc Daniel-Johnson,45.65028,-73.4997,304823.382623361,5056709.56052199,Parc,Rivière-des-Prairies-Pointe-aux-Trembles,x
+ZPA012,Parc des Faubourgs,45.52813,-73.55798,300271.10550799,5043136.40017607,Parc,Ville-Marie,x
+ZPA013,Parc du Vieux-Moulin,45.63482,-73.49291,305352.761344198,5054991.46534763,Parc,Rivière-des-Prairies-Pointe-aux-Trembles,x
+ZPA014,Parc Gilbert-Layton,45.46539,-73.64965,293097.652505139,5036173.33934577,Parc,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+ZPA015,Parc Henri-Bourassa,45.61579,-73.62264,295235.318599645,5052883.89778834,Parc,Montréal-Nord,x
+ZPA016,Parc Henri-Julien,45.54764,-73.65062,293038.940738677,5045313.96923441,Parc,Ahuntsic-Cartierville,x
+ZPA017,Parc Jean Brillant,45.49771,-73.61979,295438.002422053,5039761.14958434,Parc,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+ZPA018,Parc Kent,45.50541,-73.63189,294493.751097656,5040618.33547046,Parc,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+ZPA019,Parc Lacordaire,45.61684,-73.63085,294595.211991608,5053001.59938767,Parc,Montréal-Nord,x
+ZPA020,Parc Lafontaine - Chalet Restaurant - Espace Lafontaine,45.52509,-73.56991,299338.943287056,5042799.3042257,Parc,Le Plateau-Mont-Royal,x
+ZPA021,Parc Maria-Goretti,45.69162,-73.48781,305749.414716526,5061303.90300278,Parc,Rivière-des-Prairies-Pointe-aux-Trembles,x
+ZPA022,Parc Marie-Claire-Daveluy,45.64899,-73.56772,299521.641346028,5056568.4289975,Parc,Rivière-des-Prairies-Pointe-aux-Trembles,x
+ZPA023,Parc Notre-Dame-de-Grâce,45.47391,-73.61513,295798.407568307,5037115.71941357,Parc,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+ZPA024,Parc Oscar,45.58239,-73.64834,293224.112258007,5049175.46419171,Parc,Montréal-Nord,x
+ZPA025,Parc Ottawa,45.5814,-73.64226,293698.377133373,5049064.5840776,Parc,Montréal-Nord,x
+ZPA026,Parc Pasquale-Gattuso,45.63579,-73.57633,298849.147358012,5055102.07380921,Parc,Rivière-des-Prairies-Pointe-aux-Trembles,x
+ZPA027,Parc Pierre Blanchet,45.62792,-73.6038,296706.393815743,5054229.86377285,Parc,Rivière-des-Prairies-Pointe-aux-Trembles,x
+ZPA028,Parc René-Masson,45.65335,-73.57963,298593.8114652,5057053.82413343,Parc,Rivière-des-Prairies-Pointe-aux-Trembles,x
+ZPA029,Parc Richelieu,45.66386,-73.50493,304415.838426627,5058218.76527917,Parc,Rivière-des-Prairies-Pointe-aux-Trembles,x
+ZPA030,Parc Saint-Georges,45.65382,-73.49261,305375.955669248,5057102.99929622,Parc,Rivière-des-Prairies-Pointe-aux-Trembles,x
+ZPA031,Parc Saint-Jean-Baptiste,45.6413,-73.49923,304860.024989854,5055711.58388298,Parc,Rivière-des-Prairies-Pointe-aux-Trembles,x
+ZPA032,Parc Saint-Laurent,45.6062,-73.62888,294746.948503896,5051818.89956477,Parc,Montréal-Nord,x
+ZPA033,Parc Samuel-Morse,45.6397,-73.58472,298195.504094545,5055537.26153417,Parc,Rivière-des-Prairies-Pointe-aux-Trembles,x
+ZPA034,Parc Sir-Wilfrid-Laurier,45.53106,-73.58598,298084.337185329,5043463.97474571,Parc,Le Plateau-Mont-Royal,x
+ZPA035,Parc St-Viateur ,45.52114,-73.60605,296515.268330304,5042363.430495,Parc,Outremont,x
+ZPL001,Place Chabanel,45.54097,-73.65347,292814.983239558,5044573.14506415,Place publique,Ahuntsic-Cartierville,x
+ZPL002,Place du Citoyen,45.64054,-73.48916,305645.038554722,5055627.17952471,Place publique,Rivière-des-Prairies-Pointe-aux-Trembles,x
+ZPL003,Place du Village-du-Vieux-Pointe-aux-Trembles,45.63958,-73.48907,305652.069108562,5055520.49263328,Place publique,Rivière-des-Prairies-Pointe-aux-Trembles,x
+ZPL005,Place Simon-Valois,45.54684,-73.54361,301394.694732338,5045214.95419901,Place publique,Mercier-Hochelaga-Maisonneuve,x
+ZPL006,Square Cabot ,45.5078,-73.56562,299672.488880321,5040877.57065897,Place publique,Ville-Marie,x
+5QA01,Rue Sainte-Catherine / rue Saint-Urbain #1,45.50887,-73.56464,299749.161244397,5040996.41830221,Intersection,Ville-Marie,x
+5QA02,Rue Sainte-Catherine / rue Saint-Urbain #2,45.50842,-73.56502,299719.428330383,5040946.43349781,Intersection,Ville-Marie,x
+5QA03,Rue Sainte-Catherine O / escalier de la Place des Spectacles,45.50764,-73.56588,299652.158037581,5040859.80639644,Intersection,Ville-Marie,x
+5QA04,Rue Sainte-Catherine O / rue Jeanne-Mance,45.50716,-73.56604,299639.611830463,5040806.47398613,Intersection,Ville-Marie,x
+5QA05,Rue Sainte-Catherine O / rue Balmoral,45.50679,-73.56662,299594.256328091,5040765.39310246,Intersection,Ville-Marie,x
+5QA06,Rue Mayor / rue Balmoral,45.50888,-73.568,299486.618588522,5040997.74639447,Intersection,Ville-Marie,x
+5QA07,Boul. de Maisonneuve O / rue Balmoral,45.50774,-73.56842,299453.692724476,5040871.08538593,Intersection,Ville-Marie,x
+BA8619,Bureau Accès Montréal,45.544332,-73.581674,298422.167643464,5044938.55646739,Bureau Accès Montréal,Rosemont-La Petite-Patrie,x
+VB4415,Centre communautaire de l'Est,45.504826,-73.784075,282601.366449581,5040584.22805549,Centre communautaire,Pierrefonds-Roxboro,x
+VB0012,Mairie d'arrondissement,45.507859,-73.555151,300490.535345556,5040883.51234828,Mairie d'arrondissement,Ville-Marie,x
+VB3405,École de Cirque (Studios A et B),45.453639,-73.565007,299715.519204225,5034858.61670513,Maison de la culture,Verdun,x
+MC0371,Maison de la culture Pierre-Chartrand,45.642392,-73.59885,297094.344261942,5055837.69368485,Maison de la culture,Rivière-des-Prairies-Pointe-aux-Trembles,x
+MC8609,Maison de la culture du Plateau Mont-Royal,45.52482,-73.582367,298365.827359091,5042770.22157962,Maison de la culture,Le Plateau-Mont-Royal,x
+VB0709,Maison de la culture,45.496062,-73.622118,295255.782878053,5039578.28067416,Maison de la culture,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+VB8064,Bureau Accès Montréal,45.483996,-73.630965,294562.153734613,5038238.47238741,Bureau Accès Montréal,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+VB8142,Bureau Accès Montréal Ahuntsic-Cartierville,45.538256,-73.655599,292648.137471198,5044271.85505069,Bureau Accès Montréal,Ahuntsic-Cartierville,x
+VB0575,Centre Patro Le Prevost,45.543887,-73.614577,295852.738214058,5044892.24395922,Centre communautaire,Villeray-Saint-Michel-Parc-Extension,x
+VB3134,Maison de la culture de Verdun,45.448555,-73.577904,298706.241175594,5034294.53101268,Maison de la culture,Verdun,x
+VB3235,Centre communautaire et Pavillon des Baigneurs,45.457204,-73.54731,301099.91184604,5035253.82671037,Centre communautaire,Verdun,x
+VB0104,Maison de la culture Rosemont-La Petite-Patrie,45.547385,-73.598256,297127.712938349,5045279.29168548,Maison de la culture,Rosemont-La Petite-Patrie,x
+VB8163,Bureau Accès Montréal,45.584925,-73.541355,301572.958730925,5049447.31261265,Bureau Accès Montréal,Mercier-Hochelaga-Maisonneuve,x
+VB0978,Maison de la culture Ahuntsic-Cartierville,45.553362,-73.662633,292102.202442022,5045951.69362267,Maison de la culture,Ahuntsic-Cartierville,x
+VB0001,Bureau Accès Montréal,45.508855,-73.554206,300564.45175456,5040994.1481544,Bureau Accès Montréal,Ville-Marie,x
+AR0608,Aréna Michel-Normandin,45.551298,-73.637442,294068.631909268,5045718.641401346,Aréna,Ahuntsic-Cartierville,x
+MA8142,Mairie d'arrondissement Ahuntsic-Cartierville,45.539281,-73.653427,292817.982516329,5044385.438028422,Mairie d'arrondissement,Ahuntsic-Cartierville,x
+CC0256,Centre communautaire Saint-Raymond,45.469514,-73.608238,296336.609833746,5036626.443619846,Centre communautaire,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+AR0297,Aréna Doug-Harvey,45.471344,-73.638619,293961.397015930,5036833.459418436,Aréna,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+AR0610,Aréna Bill-Durnan,45.494824,-73.644694,293491.092175727,5039443.631355326,Aréna,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+BA3018,Bureau d'arrondissement de Lachine,45.433115,-73.680907,290645.343853221,5032591.662826838,Bureau d'arrondissement,Lachine,x
+CC3052,Centre Fernand-Lapointe,45.442798,-73.650159,293053.160305606,5033662.775187808,Centre communautaire,Lachine,x
+AR3130,Aréna Martin-Lapointe,45.442798,-73.650159,293053.160305606,5033662.775187808,Aréna,Lachine,x
+BA3068,Bureau d'arrondissement de Lasalle,45.427990,-73.661543,292159.291904707,5032018.900603932,Bureau d'arrondissement,LaSalle,x
+AR3073,Aréna Jacques-Lemaire,45.418168,-73.622294,295228.858886794,5030921.973084346,Aréna,LaSalle,x
+CS3072,Centre sportif Dollard St-Laurent,45.422127,-73.629032,294702.226004248,5031362.756054260,Centre sportif,LaSalle,x
+CS0087,Centre sportif Pierre-Charbonneau,45.563244,-73.548657,301001.702859720,5047038.181989138,Centre sportif,Mercier-Hochelaga-Maisonneuve,x
+MC0098,Maison de la culture Maisonneuve,45.548129,-73.547363,301868.027201841,5045502.878619812,Maison de la culture,Mercier-Hochelaga-Maisonneuve,x
+AR0480,Aréna Clément-Jetté,45.601697,-73.516424,303518.773041949,5051310.522179926,Aréna,Mercier-Hochelaga-Maisonneuve,x
+MC0811,Maison de la culture Mercier,45.595374,-73.523879,302937.003471784,5050607.978412124,Maison de la culture,Mercier-Hochelaga-Maisonneuve,x
+CS8161,Centre de loisirs Sainte-Claire,45.601692,-73.512871,303795.940474697,5051309.915890904,Centre communautaire,Mercier-Hochelaga-Maisonneuve,x
+BA3084,Bureau d'arrondissement de Montréal-Nord,45.594234,-73.637581,294065.961283891,5050490.217130382,Bureau d'arrondissement,Montréal-Nord,x
+CC3096,Centre communautaire intergénérationnel,45.519871,-73.619379,295473.783941711,5042223.867049872,Centre communautaire,Outremont,x
+BA3100,Bureau d'arrondissement de Pierrefonds,45.495245,-73.848035,277598.691765260,5039539.154031758,Bureau d'arrondissement,Pierrefonds-Roxboro,x
+CC3974,Carrefour des Ainés de Pierrefonds,45.495354,-73.850801,277382.562942585,5039552.207507866,Centre communautaire,Pierrefonds-Roxboro,x
+CC0065,Centre culturel Calixa-Lavallée,45.527078,-73.569281,299388.268579903,5043020.189953324,Centre communautaire,Le Plateau-Mont-Royal,x
+CC0159,Centre Saint-Denis,45.527922,-73.589215,297831.272685673,5043115.521322860,Centre communautaire,Le Plateau-Mont-Royal,x
+AR0609,Aréna Saint-Louis,45.528216,-73.605488,296560.205398684,5043149.735011714,Aréna,Le Plateau-Mont-Royal,x
+CC0976,Centre du Plateau,45.539910,-73.576013,298863.763523617,5044446.699845524,Centre communautaire,Le Plateau-Mont-Royal,x
+LD0981,Espace pour la vie - Pavillon du Jardin Japonais,45.559834,-73.563065,299876.677559987,5046660.006082782,Lieu,Rosemont-La Petite-Patrie,x
+BA8061,Bureau d'arrondissement du Plateau Mont-Royal,45.525120,-73.591156,297679.304538953,5042804.302696138,Bureau d'arrondissement,Le Plateau-Mont-Royal,x
+CA0321,Centre récréatif Rivières-des-Prairies,45.627087,-73.594855,297403.753493415,5054136.425746870,Centre sportif,Rivière-des-Prairies-Pointe-aux-Trembles,x
+MC0986,Maison de la culture Pointes-aux-Trembles,45.667954,-73.494851,305201.197516833,5058673.747623554,Maison de la culture,Rivière-des-Prairies-Pointe-aux-Trembles,x
+BA1043,Bureau d'arrondissement et Maison du Citoyen,45.640523,-73.488992,305658.135352722,5055625.292045902,Bureau d'arrondissement,Rivière-des-Prairies-Pointe-aux-Trembles,x
+CS2621,Complexe sportif Marie-Victorin,45.618936,-73.609257,296279.533889084,5053232.011821332,Centre sportif,Rivière-des-Prairies-Pointe-aux-Trembles,x
+CS8070,Centre Mainbourg,45.671056,-73.509648,304048.292904835,5059018.516884334,Centre sportif,Rivière-des-Prairies-Pointe-aux-Trembles,x
+BA8634,Bureau d'accès Montréal,45.641272,-73.576081,298869.138311618,5055711.287220784,Bureau d'accès Montréal,Rivière-des-Prairies-Pointe-aux-Trembles,x
+AR0763,Aréna Rodrigue-Gilbert,45.651313,-73.495109,305181.207695049,5056824.372896040,Aréna,Rivière-des-Prairies-Pointe-aux-Trembles,x
+CS0183,Centre Rosemont,45.554595,-73.576709,298810.969046751,5046078.715514164,Centre sportif,Rosemont-La Petite-Patrie,x
+LD0376,Piscine municipale Saint-Denis,45.540380,-73.611892,296061.865287602,5044502.210875122,Lieu,Rosemont-La Petite-Patrie,x
+LD2454,Espace pour la vie - Maison de l'Arbre du Jardin botanique,45.564478,-73.570278,299314.029188725,5047176.569287234,Lieu,Rosemont-La Petite-Patrie,x
+LD2030,Kiosque de perceptions des départs,45.569445,-73.557931,300278.246853423,5047727.790662554,Lieu,Rosemont-La Petite-Patrie,x
+BB0850,Bibliothèque du Boisé,45.504146,-73.705375,288751.071385763,5040489.922122988,Bibliothèque,Saint-Laurent,x
+LD3114,Cour municipale Saint-Laurent,45.512623,-73.677971,290894.630815021,5041426.866080886,Cour municipale,Saint-Laurent,x
+BA3144,Bureau d'arrondissement Saint-Léonard,45.586383,-73.596793,297247.178879953,5049613.068425258,Bureau d'arrondissement,Saint-Léonard,x
+AR3149,Aréna Roberto-Luongo,45.574026,-73.594896,297393.578540639,5048239.633441392,Aréna,Saint-Léonard,x
+CS0266,Centre sportif Saint-Charles,45.479171,-73.563394,299843.916822176,5037695.881427430,Centre sportif,Le Sud-Ouest,x
+BA8124,Bureau d'arrondissement du Sud-Ouest,45.482539,-73.582826,298325.127175714,5038071.549596074,Bureau d'arrondissement,Le Sud-Ouest,x
+CS0154,Complexe Gadbois,45.466070,-73.595561,297327.399966905,5036242.455837368,Centre sportif,Le Sud-Ouest,x
+MA3132,Mairie d'arrondissement de Verdun,45.459233,-73.573120,299081.531554959,5035480.820705058,Mairie d'arrondissement,Verdun,x
+BA8062,Bureau d'arrondissement Ville-Marie,45.509506,-73.566186,299628.418177839,5041067.195755322,Bureau Accès Montréal,Ville-Marie,x
+AR0601,Aréna Camilien-Houde,45.519819,-73.559675,300138.020414607,5042212.888254030,Aréna,Ville-Marie,x
+LD4153,Chapelle historique du Bon-Pasteur,45.513275,-73.568575,299442.106284396,5041486.203799518,Lieu,Ville-Marie,x
+AR0064,Aréna Howie-Morenz,45.534208,-73.644497,293514.364014382,5043820.375621988,Aréna,Villeray-Saint-Michel-Parc-Extension,x
+AR0196,Aréna Saint-Michel,45.565255,-73.606912,296454.457691308,5047266.075999294,Aréna,Villeray-Saint-Michel-Parc-Extension,x
+MC8027,Centre Jean-Marie Gauvreau,45.541745,-73.613319,295950.638770613,5044654.061331756,Maison de la culture,Villeray-Saint-Michel-Parc-Extension,x
+CC8742,Centre communautaire William-Hingston,45.531380,-73.628858,294735.310946962,5043504.017506130,Centre communautaire,Villeray-Saint-Michel-Parc-Extension,x
+CS0110,Centre sportif Père-Marquette,45.541093,-73.595677,297328.259837573,5044579.810286318,Centre sportif,Rosemont-La Petite-Patrie,x
+BB0240,Bibliothèque Marc-Favreau,45.531715,-73.594532,297416.449553499,5043537.516487526,Bibliothèque,Rosemont-La Petite-Patrie,x
+CS0095,Complexe sportif Claude-Robillard,45.553278,-73.637584,294057.921863116,5045938.700669910,Centre sportif,Ahuntsic-Cartierville,x
+AR0481,Aréna Francis-Bouillon,45.541738,-73.551460,300781.360676939,5044648.325322700,Aréna,Mercier-Hochelaga-Maisonneuve,x
+AR3211,Aréna Rolland,45.616166,-73.620619,295392.999051645,5052925.444557298,Aréna,Montréal-Nord,x
+CS0455,Centre sportif Jean-Rougeau,45.547669,-73.620145,295418.564940218,5045313.178344598,Centre sportif,Villeray-Saint-Michel-Parc-Extension,x
+CS0101,Centre Morgan - Bain Morgan,45.555444,-73.543664,301390.998308283,5046171.131343680,Centre communautaire,Mercier-Hochelaga-Maisonneuve,x
+CC8197,Centre communautaire Bordeaux - Cartierville,45.562919,-73.662553,292110.59988386,5047013.76531286,Centre communautaire,Ahuntsic-Cartierville,x
+CS0365,Centre Poupart - Bain Quintal,45.528986,-73.548766,300990.88100988,5043231.04988134,Centre communautaire,Ville-Marie,x
+AR3148,Aréna Martin-Brodeur,45.585327,-73.597761,297171.50217786,5049495.80452174,Aréna,St-Léonard,x
+VB0002,Cour municipale de Montréal,45.509709,-73.554406,300548.88844289,5041089.06426610,Cour municipale,Ville-Marie,x
+CC0569,Centre Alexandre-DeSève,45.524463,-73.561292,300012.08973373,5042729.07514279,Centre des loisirs,Ville-Marie,x
+VB3670,Cour municipale de Montréal - Est de lÎle,45.589869,-73.539314,301732.49271893,5049996.66983745,Cour municipale,Mercier-Hochelaga-Maisonneuve,x
+PC0001,Rue Saint-Paul O / ruelle Chagouamigon,45.503014,-73.555123,300492.35374322,5040345.08338014,Intersection,Ville-Marie,x
+PC0002,311 Place d'Youville,45.501337,-73.555539,300459.71612031,5040158.73996439,Place publique,Ville-Marie,x
+PC0003,Rue  Saint-Pierre / rue des Récollets,45.502034,-73.557959,300270.65288606,5040236.33150476,Intersection,Ville-Marie,x
+PC0004,Rue Saint-Jean / rue de l'Hôpital,45.502759,-73.557628,300296.57748840,5040316.88249270,Intersection,Ville-Marie,x
+PC0005,Rue Saint-Paul O / rue François Xavier,45.502735,-73.555528,300460.68314843,5040314.09977210,Intersection,Ville-Marie,x
+PC0006,Rue Saint-Paul O/ rue Saint-Dizier,45.505152,-73.553969,300582.69395445,5040582.61918059,Intersection,Ville-Marie,x
+PC0007,Rue Saint-Jean / rue Notre-Dame O,45.503005,-73.558089,300260.57175387,5040344.24654204,Intersection,Ville-Marie,x
+PC0008,Rue du Saint-Sacrement / rue Saint-Éloi,45.502807,-73.5564,300392.54505023,5040322.14864326,Intersection,Ville-Marie,x
+CS0302,Piscine Lévesque,45.526197,-73.577940,298711.795,5042922.904,Centre sportif,Le Plateau-Mont-Royal,x
+AR3035,Aréna Chaumont,45.611117,-73.546364,301183.776,5052358.305,Aréna,Anjou,x
+CC0890,Carrefour jeunesse du CCSE Maisonneuve,45.551619,-73.540091,301669.743,5045745.908,Centre communautaire,Mercier-Hochelaga-Maisonneuve,x
+CS0712,Piscine Pierre-Lorange,45.542332,-73.545238,301267.289,5044714.045,Centre sportif,Mercier-Hochelaga-Maisonneuve,x
+CC8707,Centre communautaire Rivière-des-Prairies,45.650342,-73.577451,298763.315,5056719.369,Centre communautaire,Rivière-des-Prairies-Pointe-aux-Trembles,x
+CC3236,Centre communautaire Marcel Giroux,45.459491,-73.576532,298814.718,5035509.741,Centre communautaire,Verdun,x
+CC3839,Complexe culturel Guy-Descary Pavillon l'Entrepôt,45.489976,-73.630026,294636.633,5038902.912,Centre culturel,Lachine,x
+CC3206,Complexe culturel Guy-Descary La Maison du brasseur,45.435005,-73.696665,289412.909,5032804.591,Centre culturel,Lachine,x
+CC8647,Centre communautaire de Mercier Est,45.594191,-73.523701,302950.852,5050476.505,Centre communautaire,Mercier-Hochelaga-Maisonneuve,x
+CS0889,Centre aquatique de Rivière-des-Prairies,45.651070,-73.579115,298633.699,5056800.400,Centre sportif,Rivière-des-Prairies-Pointe-aux-Trembles,x
+CS0864,Piscine Sophie Barat,45.561731,-73.667906,291692.45158210,5046882.60135744,Centre sportif,Ahuntsic-Cartierville,x
+CC3126,Centre communautaire Saint-Pierre,45.444146,-73.648994,293144.57506442,5033812.40798439,Centre communautaire,Lachine,x
+AR3207,Aréna Pierre-Morin,45.439389,-73.681910,290568.44356264,5033289.06433048,Aréna,Lachine,x
+CC0152,Centre communautaire Notre-Dame de Grâce,45.476117,-73.613686,295911.65558569,5037360.82247339,Centre communautaire,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+CC3110,Centre de loisirs de Saint-Laurent,45.514334,-73.690928,289882.71646733,5041619.33572549,Centre communautaire,Saint-Laurent,x
+CC3841,Pavillon Benoît-Verdickt (Musée),45.429421,-73.666001,291810.78251241,5032178.63656026,Centre culturel,Lachine,x
+CC4479,Centre intergénérationnel,45.461575,-73.542632,301466.03317090,5035739.36969947,Centre communautaire,Verdun,x
+CS2464,Centre sportif Côte-Des-Neiges,45.494722,-73.631112,294552.60754549,5039430.47388947,Centre sportif,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+CC3204,La Vieille Brasserie,45.433427,-73.688749,290031.84582988,5032627.74524724,Centre communautaire,Lachine,x
+AR0482,Aréna Marcelin-wilson,45.536597,-73.684879,290361.02392268,5044092.33767934,Aréna,Ahuntsic-Cartierville,x
+CC3975,Centre communautaire Ouest,45.458039,-73.883868,274778.34863413,5035417.21089419,Centre communautaire,Pierrefonds-Roxboro,x
+AR0276,Aréna Saint-Donat,45.583675,-73.540901,301608.31473314,5049308.37934588,Aréna,Mercier-Hochelaga-Maisonneuve,x
+AR9088,Aréna Fleury,45.583142,-73.637165,294096.30949874,5049257.48360124,Aréna,Montréal-Nord,x
+CC0640,Centre Notre-Dame-des-Victoires,45.573390,-73.539508,301716.45376031,5048165.33256675,Centre de loisirs,Mercier-Hochelaga-Maisonneuve,x
+CC8616,Centre communautaire Monkland,45.468020,-73.632369,294449.47537689,5036463.23996952,Centre communautaire,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+CS2391,Centre sportif Notre-Dame-des-Neiges,45.497180,-73.622116,295256.12805033,5039702.52418337,Centre sportif,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+CC8538,Centre communautaire Westhaven,45.454732,-73.639072,293922.78298907,5034987.43390642,Centre communautaire,Le Sud-Ouest,x
+CC1062,Centre communautaire Anjou,45.606472,-73.563588,299839.95688193,5051843.01522689,Centre communautaire,Anjou,x
+MC0884,Maison de la culture Antoine Beaudry,45.678498,-73.490079,305572.87496483,5059845.57759054,Maison de la culture,Rivière-des-Prairies-Pointe-aux-Trembles,x
+PA0766,Pavillon du parc Clémentine - De la Rousselière,45.667464,-73.493492,305307.09190537,5058619.29980920,Parc,Rivière-des-Prairies-Pointe-aux-Trembles,x
+CC3180,Pavillon Hexagonal,45.582208,-73.581188,298464.37761633,5049147.74105570,Centre communautaire,Saint-Léonard,x
+CC0164,Pavillon Notre-Dame-de-Grâce,45.479923,-73.614828,295822.97465298,5037783.91020180,Centre communautaire,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+CC0795,Centre Gabrielle et Marcel Lapalme,45.552260,-73.571033,299253.89128183,5045818.81561558,Centre communautaire,Rosemont-La Petite-Patrie,x
+CS0551,Centre sportif Notre-Dame-de-Grâce,45.4665,-73.632135,294467.49518880,5036294.29258038,Centre sportif,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+CC1102,Centre communautaore ABE LIMONCHICK,45.496152,-73.641400,293748.80242230,5039590.75403735,Centre communautaire,Côte-des-Neiges-Notre-Dame-de-Grâce,x
+CC8375,Église Sainte-Cécile,45.537495,-73.539435,301720.19118102,5044176.26394474,Centre communautaire,Villeray-Saint-Michel-Parc-Extension,x
+BB0535,BAnQ Vieux-Montréal,45.513156,-73.554864,300513.36345986,5041472.15598402,Bibliothèque,Ville-Marie,x
+BB0475,BAnQ Grande Bibliothèque,45.515512,-73.562014,299954.92151251,5041734.38644059,Bibliothèque,Ville-Marie,x
+BB2275,BAnQ,45.545463,-73.580618,298504.75575144,5045064.16261580,Bibliothèque,Rosemont-La Petite-Patrie,x
+CC8312,Centre de loisirs et d'animation culturelle de Guybourg,45.570476,-73.526747,302712.325,5047841.083,Centre culturel,Mercier-Hochelaga-Maisonneuve,x
+CC3400,Maison Nivard-De Saint-Dizier,45.437720,-73.526747,302707.412,5033087.841,Centre culturel,Verdun,x
